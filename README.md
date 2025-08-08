@@ -1,1 +1,1 @@
-# trainingsapp.github.io
+# danielkroul.github.io
